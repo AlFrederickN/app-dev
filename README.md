@@ -10,3 +10,5 @@ My first repository
 4. One Piece
 5. Naruto
 6. Bleach
+
+gh pr create --assignee "@sti-admin"
